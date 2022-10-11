@@ -121,7 +121,8 @@
 "aquariumSize" : "50 litre",
 "waterHardness" : "1 - 15 °dH",
 "pH" : "6.0 - 7.6",
-"degreeOfDifficulty": "2"
+"degreeOfDifficulty": "2",
+"imageUrl": "https://www.petihtiyac.com/Data/Blog/78.jpg"
 },
 { 
 "name" : "Lepistes",
