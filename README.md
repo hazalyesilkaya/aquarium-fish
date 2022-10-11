@@ -14,7 +14,8 @@
 "aquariumSize" : "Oranda, ryukin, ranchu gibi balıklar için 40 litre; comet shubunkin gibi tek kuyruklu ve daha iri boylara ulaşanlar için 70 litre.",
 "waterHardness" : "5 - 19 °dH",
 "pH" : "6.0 - 8.0",
-"degreeOfDifficulty": "2"
+"degreeOfDifficulty": "2",
+"imageUrl": "https://get.pxhere.com/photo/water-swim-pet-biology-fish-fauna-aquarium-goldfish-freshwater-fish-cyprinidae-cultivar-marine-biology-pomacentridae-freshwater-aquarium-karpfenfisch-sarasa-japanese-breeding-form-1244001.jpg"
 },
 { 
 "name" : "Neon Tetra",
@@ -31,7 +32,8 @@
 "aquariumSize" : "40 lt",
 "waterHardness" : "Yumuşak",
 "pH" : "5.0-7.0",
-"degreeOfDifficulty": "2"
+"degreeOfDifficulty": "2",
+"imageUrl": "https://cdn.pixabay.com/photo/2021/02/14/19/49/neon-tetra-6015626_960_720.jpg"
 },
 { 
 "name" : "Diskus",
@@ -48,7 +50,8 @@
 "aquariumSize" : "400 lt",
 "waterHardness" : "0 - 12 °dH",
 "pH" : "5.0-8.0",
-"degreeOfDifficulty": "4"
+"degreeOfDifficulty": "4",
+"imageUrl": "https://cdn.pixabay.com/photo/2017/01/06/14/47/discus-fish-1957894_960_720.png"
 },
 { 
 "name" : "Kılıçkuyruk",
@@ -82,7 +85,8 @@
 "aquariumSize" : "150 litre, akvaryum yüksekliği en az 40 cm olmalıdır.",
 "waterHardness" : "0 - 15 °dH (Çok Yumuşak - Sert)",
 "pH" : "6.0 - 7.4",
-"degreeOfDifficulty": "2"
+"degreeOfDifficulty": "2",
+"imageUrl": "https://cdn.pixabay.com/photo/2019/04/19/21/56/fish-4140563_960_720.jpg"
 },
 { 
 "name" : "Beta Balığı",
@@ -99,7 +103,8 @@
 "aquariumSize" : "30 litre",
 "waterHardness" : "5 - 19 °dH",
 "pH" : "6.0 - 8.0",
-"degreeOfDifficulty": "1"
+"degreeOfDifficulty": "1",
+"imageUrl": "https://cdn.pixabay.com/photo/2019/12/27/10/57/beta-4722176_960_720.jpg"
 },
 { 
 "name" : "Çöpçü Balığı",
@@ -133,7 +138,8 @@
 "aquariumSize" : "40 litre",
 "waterHardness" : "7 - 19 °dH (Yumuşak - Çok Sert)",
 "pH" : "7.0 - 8.5",
-"degreeOfDifficulty": "1"
+"degreeOfDifficulty": "1",
+"imageUrl": "https://cdn.pixabay.com/photo/2021/11/16/13/14/fish-6800969_960_720.jpg"
 },
 { 
 "name" : "Sarı Prenses",
