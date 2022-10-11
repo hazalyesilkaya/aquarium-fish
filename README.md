@@ -204,7 +204,7 @@
 "degreeOfDifficulty": "3"
 },
 { 
-"name" : "Zebra balığı",
+"name" : "Zebra Balığı",
 "latinName" : "Brachydanio rerio",
 "region" : "Güney Doğu Asya",
 "nutrition" : "Hem etçil, hem otçul",
